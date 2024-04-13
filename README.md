@@ -1,3 +1,3 @@
 # contador-simples-js
 
-Atividade dia 1 - Seminarios II
+Atividade dia 001 - Seminarios II
