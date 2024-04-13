@@ -1,0 +1,22 @@
+<html>
+    <head></head>
+    <body>
+        <button onclick="count()">
+            Clique
+        </button>
+        </br>
+        <label>
+        Contador: 0
+        </label>
+        <script>
+            var somador = 0
+            function count(){
+                somador ++;
+                let label = document.querySelector("label")
+                label.innerText = "Contador: " + somador
+            }
+        </script>
+    </body>
+
+</html>
+
